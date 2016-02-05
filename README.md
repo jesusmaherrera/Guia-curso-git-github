@@ -5,7 +5,7 @@ http://git.miguelnieva.com/#/241
 
 Temario de la Clase 2
 
-Workflows
-Repositorios personales
-Repositorios "forked"
-GitHub Pages
+1. Workflows
+2. Repositorios personales
+3. Repositorios "forked"
+4. GitHub Pages
